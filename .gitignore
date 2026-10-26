@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ﻿data/raw/
 *.csv
 .venv/
 .vscode/
+=======
+﻿.venv/
+__pycache__/
+>>>>>>> ea95827c41bf573d89e6e95393356c0a9175b3f4
 .ipynb_checkpoints/
